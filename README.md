@@ -1,4 +1,4 @@
-# Document extractor using llamaindex
+# Document extractor using llamaindex!
 A simple Streamlit web app for using [LlamaIndex](https://github.com/jerryjliu/llama_index), an interface to connect LLM’s with external data.
 
 ![demo](demo/demo.gif)
